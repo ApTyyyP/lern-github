@@ -46,6 +46,7 @@ li {
     font-weight: normal;
     font-size: 20px;
     color: #ffffff;
+    line-height: 50px;
 }
 
 li:nth-child(2n) {
@@ -65,7 +66,7 @@ div.block * {
 [type=checkbox] {
     width: 20px;
     height: 20px;
-    margin: 15px 12px;
+    margin: 0 12px;
 }
 
 div.block [type=checkbox]:checked + label * {
